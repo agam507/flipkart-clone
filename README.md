@@ -35,6 +35,7 @@ A responsive and visually accurate front-end clone of Flipkart, built using **HT
 
 ## 📂 Folder Structure
 
+```
 flipkart-clone/
 ├── index.html                 # Homepage
 ├── login.html                 # Login page
@@ -56,6 +57,7 @@ flipkart-clone/
 
 └── README.md                  # Project documentation
 
+```
     
 ---
 
