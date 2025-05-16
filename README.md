@@ -6,13 +6,13 @@ A responsive and visually accurate front-end clone of Flipkart, built using **HT
 
 ## 🚀 Features
 
-- 🔹 Fully responsive homepage and product listing page  
-- 🔹 Bootstrap-powered layout with consistent UI design  
-- 🔹 Navbar with search bar, dropdowns, and cart icon  
-- 🔹 Interactive product cards with hover animations  
-- 🔹 Carousel for promotional banners  
-- 🔹 **Login and Signup pages** with validation-ready forms  
-- 🔹 Reusable components (navbar, footer, product cards)
+-  Fully responsive homepage and product listing page  
+-  Bootstrap-powered layout with consistent UI design  
+-  Navbar with search bar, dropdowns, and cart icon  
+-  Interactive product cards with hover animations  
+-  Carousel for promotional banners  
+-  **Login and Signup pages** with validation-ready forms  
+-  Reusable components (navbar, footer, product cards)
 
 ---
 
@@ -36,42 +36,45 @@ A responsive and visually accurate front-end clone of Flipkart, built using **HT
 ## 📂 Folder Structure
 
 flipkart-clone/
-├── index.html                          # Homepage
-├── login.html                          # Login page
-├── register.html                       # Registration/Signup page
-│
-├── css/                                # CSS styles
-│   └── style.css                       # (or any other CSS files)
-│   └── bootstrap.css
-│
-├── js/                                 # JavaScript files
-│   └── bootstrap.bundle.js             # (or any other scripts)
-│
-├── images/                             # Image assets (logos, banners, etc.)
-│
-├── screenshots/                        # Screenshots for README
-    ├── homepage.png
-    ├── login.png
-    └── signup.png
+├── index.html                 # Homepage
+├── login.html                 # Login page
+├── register.html              # Registration/Signup page
+
+├── css/                       # CSS styles
+│   ├── style.css              # Custom styles
+│   └── bootstrap.css          # Bootstrap CSS
+
+├── js/                        # JavaScript files
+│   └── bootstrap.bundle.js    # Bootstrap JS (with Popper)
+
+├── images/                    # Image assets (logos, banners, etc.)
+
+├── screenshots/               # Screenshots for README
+│   ├── homepage.png
+│   ├── login.png
+│   └── signup.png
+
+└── README.md                  # Project documentation
+
     
 ---
 
 ## 📌 Future Improvements
 
-- 🔹 Implement product detail and checkout pages
-- 🔹 Enhance responsiveness for more devices
+-  Implement product detail and checkout pages
+-  Enhance responsiveness for more devices
 
 ---
 
 ## 📄 License
 
-- 🔹 This project is open-source and available for educational use.
+-  This project is open-source and available for educational use.
 
 ---
 
 ## 🙌 Acknowledgements
 
-- 🔹 Flipkart.com for UI reference
-- 🔹 Bootstrap for layout and components
+-  Flipkart.com for UI reference
+-  Bootstrap for layout and components
   
 ---
